@@ -1,0 +1,11 @@
+{
+  "name": "events-api",
+  "version": "1.0.0",
+  "description": "An event management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Assad Isah",
+  "license": "ISC"
+}
